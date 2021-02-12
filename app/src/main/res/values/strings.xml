@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">ListView</string>
+    <string name="add_user_title">Create a new User</string>
+    <string name="add_user_name_hint">Name</string>
+    <string name="add_user_last_name_hint">LastName</string>
+    <string name="add_user_age_hint">Age</string>
+    <string name="add_user_description_hint">Description</string>
+    <string name="add_user">Add User</string>
+    <string name="reg_page_title">Registration</string>
+    <string name="reg_email_hint">E-mail</string>
+    <string name="reset_password_title">Recover Account</string>
+    <string name="reset_password">Reset password</string>
+    <string name="go_back">Go back</string>
+    <string name="reg_pwd_hint">Password</string>
+    <string name="reg_button">Register</string>
+    <string name="reg_or_login">OR...</string>
+    <string name="login_page_title">Sign in</string>
+    <string name="login_button">Login</string>
+    <string name="log_out">Log out</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="create_a_new_note">Create a new Note</string>
+    <string name="add_note">Add Note</string>
+    <string name="new_note">New Note</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="title">Title</string>
+    <string name="note_body">Note body</string>
+    <string name="note_title">Note Title</string>
+
+</resources>
